@@ -1,5 +1,5 @@
 def base_hash
-	{properties: "Park Ave"}
+	{railroads: "Park Ave"}
 end
 
 def monopoly_with_second_tier
